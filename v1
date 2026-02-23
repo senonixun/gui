@@ -8,7 +8,7 @@ local playerGui = player:WaitForChild("PlayerGui")
 
 -- Создаем основной объект ScreenGui
 local screenGui = Instance.new("ScreenGui")
-screenGui.Name = "XenoxHubGui"
+screenGui.Name = "XQCHubGui"
 screenGui.ResetOnSpawn = false -- Чтобы GUI не исчезало при смерти персонажа
 screenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling -- Для правильного наложения элементов
 
